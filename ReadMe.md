@@ -1,8 +1,8 @@
 # SysSet
 
-1. Install git-bash from https://git-scm.com/downloads
-2. Start git-bash
-3. Run: 
+___1.___ Install git-bash from https://git-scm.com/downloads
+___2.___ Start git-bash
+___3.___ Run: 
 
     git clone https://github.com/MyUserNameIsMyUserName/SysSet.git
 
@@ -10,4 +10,4 @@
 
     bash test.setup.sh
 
-4. Enjoy the ride ( _need to go through process of installing_)
+___4.___ Enjoy the ride ( _need to go through process of installing_ )
