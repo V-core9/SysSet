@@ -10,4 +10,4 @@
 
     bash test.setup.sh
 
-4. Enjoy the ride (need to go through process of installing)
+4. Enjoy the ride ( _need to go through process of installing_)
