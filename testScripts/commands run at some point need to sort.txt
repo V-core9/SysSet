@@ -1,0 +1,6 @@
+
+Was asked to add when first trying to push some changes to github.com
+
+git config --global user.email "slavko.vuletic92@gmail.com"
+git config --global user.name "MyUserNameIsMyUserName"
+git config --global user.password <|not-really-gonna-write-it-here|>

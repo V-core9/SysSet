@@ -9,3 +9,5 @@ start downloads/gitbash.exe
 
 echo [All done...]
 pause
+
+start mainScripts/setup.main.sh
