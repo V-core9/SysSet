@@ -10,8 +10,7 @@ elif [[ "$OSTYPE" == "cygwin" ]]; then
 elif [[ "$OSTYPE" == "msys" ]]; then
         # Lightweight shell and GNU utilities compiled for Windows (part of MinGW)
         echo "msys"
-        curl 'https://az764295.vo.msecnd.net/stable/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/VSCodeSetup-x64-1.52.1.exe' -o vscode.exe
-        start vscode.exe
+        source mainScripts/SysSet_win10.sh
 elif [[ "$OSTYPE" == "win32" ]]; then
         # I'm not sure this can happen.
         echo "win32"
